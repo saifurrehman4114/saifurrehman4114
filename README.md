@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />][linkedin]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />][linkedin]
 
 <br />
 
