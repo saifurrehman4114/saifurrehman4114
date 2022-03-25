@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-### Hi there, I'm Saif 👋
+Hi there, I'm Saif 👋
 
 I am Software Development Engineer (SDE) from Lahore, Pakistan 🇵🇰 mostly using JavaScript, Python, Reactjs, React Native, Nodejs, and other cool libraries and have a love for Machine Learning, Chatbots, and Artificial Intelligence.  
 
@@ -26,7 +26,7 @@ Feel free to reach out to me for relevant opportunities, collaboration & discuss
 - Github: https://github.com/saifurrehman4114
 - LinkedIn: https://www.linkedin.com/in/saif-ucp
 - Skype ID: live:.cid.df0607b5a1ed1972
-##
+
 
 
  </samp>
