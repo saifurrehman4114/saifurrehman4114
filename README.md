@@ -12,18 +12,18 @@ While I’m not being a techie I like watching tv shows and listening to music w
 
 Little Introduction about Me - 🕵️
 
- *💻 • Software Engineer 
- *🎙️ • Tech Freak Enthusiastic 
- *💡 • Former Joint Secretary & Management Team Member @ ACM-UCP
- *🌐 •Former Management Team Member @ Developer Student Club UCP (DSC UCP)
+ -💻 • Software Engineer 
+ -🎙️ • Tech Freak Enthusiastic 
+ -💡 • Former Joint Secretary & Management Team Member @ ACM-UCP
+ -🌐 •Former Management Team Member @ Developer Student Club UCP (DSC UCP)
 
 
 Feel free to reach out to me for relevant opportunities, collaboration & discussion about Technology.
 
-Email: saifrh.work@gmail.com 📩
-Skype ID: live:.cid.df0607b5a1ed1972
-Github: https://github.com/saifurrehman4114
-LinkedIn: https://www.linkedin.com/in/saif-ucp
+-Email: saifrh.work@gmail.com 📩
+-Github: https://github.com/saifurrehman4114
+-LinkedIn: https://www.linkedin.com/in/saif-ucp
+-Skype ID: live:.cid.df0607b5a1ed1972
 
 #Empathy #Teamwork #Webdev #Coding #Programming #development #Creativity #Curiosity #Courage #Leadership
 
