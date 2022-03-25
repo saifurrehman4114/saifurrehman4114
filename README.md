@@ -23,10 +23,9 @@ Feel free to reach out to me for relevant opportunities, collaboration & discuss
 
  <p align = "center">
 - Email: saifrh.work@gmail.com 📩
-- Github: https://github.com/saifurrehman4114
 - LinkedIn: https://www.linkedin.com/in/saif-ucp
 - Skype ID: live:.cid.df0607b5a1ed1972
-
+- Github: https://github.com/saifurrehman4114
 
 
  </samp>
