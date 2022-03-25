@@ -1,7 +1,6 @@
 ### Hi there, I'm Saif 👋
 
-
-##Hello Github Family 👋 - I am Software Development Engineer (SDE) from Lahore, Pakistan 🇵🇰
+Hello Github Family 👋 - I am Software Development Engineer (SDE) from Lahore, Pakistan 🇵🇰
 
 My mantra is simple: improve 1% every day, empower people around you and always create value.
 
@@ -13,10 +12,10 @@ While I’m not being a techie I like watching tv shows and listening to music w
 
 Little Introduction about Me - 🕵️
 
-💻 • Software Engineer 
-🎙️ • Tech Freak Enthusiastic 
-💡 • Former Joint Secretary & Management Team Member @ ACM-UCP
-🌐 •Former Management Team Member @ Developer Student Club UCP (DSC UCP)
+ *💻 • Software Engineer 
+ *🎙️ • Tech Freak Enthusiastic 
+ *💡 • Former Joint Secretary & Management Team Member @ ACM-UCP
+ *🌐 •Former Management Team Member @ Developer Student Club UCP (DSC UCP)
 
 
 Feel free to reach out to me for relevant opportunities, collaboration & discussion about Technology.
