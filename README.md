@@ -20,6 +20,8 @@ Little Introduction about Me - 🕵️
 <br>
 <p align = "center">
 Feel free to reach out to me for relevant opportunities, collaboration & discussion about Technology.
+ </samp>
+</p>
 
  <p align = "center">
 - Email: saifrh.work@gmail.com 📩
@@ -28,5 +30,3 @@ Feel free to reach out to me for relevant opportunities, collaboration & discuss
 - Github: https://github.com/saifurrehman4114
 
 
- </samp>
-</p>
