@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/saifurrehman4114/saifurrehman4114/main/Saif-Banner.png"/>
  <hr></hr>
 
-<p align="center">
+<!-- <p align="center"> -->
   <samp>
 Hi there, I'm Saif 👋
 
