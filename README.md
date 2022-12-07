@@ -4,33 +4,27 @@
 <!-- <p align="center"> -->
   <samp>
 
- Hi there, I'm Saif 👋 Github Family 👋 Thanks for taking the time to visit my profile :) 
+👋 Hey there, I’m Saif. 
 
+I'm a Software Engineer /DevOps/ SRE/ Fullstack Engineer with 3+ years of Experience mostly using JavaScript MERN Stack(MongoDB Express React Node), Python Docker, Kubernetes & Cloud Providers (AWS & Lambda Functions, GCP & Firebase ) 
 
-I am Software Development Engineer (SDE) from Lahore, Pakistan 🇵🇰 mostly using JavaScript, Python, Reactjs, React Native, Nodejs, and other cool libraries and have a love for Machine Learning, Chatbots, and Artificial Intelligence.  
+I have a love for Machine Learning, Chatbots, and Artificial Intelligence. I’m a true believer in having a curious and creative mindset that makes you adopt and learn/unlearn anything you want. I am a young tech enthusiast who strives to learn, develop & grow. 
 
-
-Little Introduction about Me - 🕵️
-
-- 💻 Software Development Engineer (JavaScript/TypeScript/Python) @ CCJK Technologies
-- ✨ Favorite Tech: JavaScript, React, Typescript, Python ...
-- ⚡ Fun fact: Learning and striving to make a difference each and everyday.
-- ⚡ Tech Freak Enthusiastic
-- 💡 • Intern @ JPMorgan Chase & Co. | Harvard University, Cellular Agriculture Society, and UNDP | Superior Soft | Aletheia-AI | University Of Central Punjab (Research      Internship in Human-Centered Robotics laboratory) 
--💡 • Certified Nvidia Developer 
--🎙️ • Bronze AwardBronze Award Issued by Innovate FPGA -International Competition Sponsored by Intel.
--💡 • Open Source Software Contributor
--💡 • Former Joint Secretary & Management Team Member @ ACM-UCP
--💡 •Former Management Team Member @ Developer Student Club UCP (DSC UCP)
--💡 • Former Management Team Member @ TEDx UCP
--💡 • Participated in the Global Fellowship Program "Beyond Borders" from AIESEC in Lahore
--💡 • Volunteer in United Nations Volunteers
+Skills: 
+Programming Languages: JavaScript/TypeScript, Python, PHP, Rust, Go, Bash, C/C++
+Frameworks: Node.js, Express.Js, React.js, Tailwind CSS, Jest, GraphQL, Symfony
+Databases: MongoDB, PostgreSQL, Redis, MySQL, SQLite
+Cloud Platforms: AWS, Google Cloud Platform, Firebase, Heroku
+DevOps Tools: Docker, Kubernetes, Prometheus, Grafana
+Developer Tools: Git, BitBucket, Github, SSH, Nginx, VS Code, Webpack, Jira, Confluence, Selenium, Chrome
+Developer tools, Slack
+Operating Systems: Linux: Red Hat Enterprise Linux, Ubuntu, Debian, Windows, macOS
 ------------------------
  
 ## ☎️ Get in touch
 <br>
 <p align = "center">
-Feel free to reach out to me for relevant opportunities, collaboration & discussion about Technology.
+Feel free to reach out to me on my socials and email for relevant opportunities, collaboration & discussion about Technology.
  </samp>
 </p>
 
