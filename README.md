@@ -1,9 +1,3 @@
-<img src="https://raw.githubusercontent.com/saifurrehman4114/saifurrehman4114/main/Saif-Banner.png"/>
- <hr></hr>
-
-<!-- <p align="center"> -->
-  <samp>
-
 👋 Hey there, I’m Saif. 
 
 I'm a Software Engineer /DevOps/ SRE/ Fullstack Engineer with 3+ years of Experience mostly using JavaScript MERN Stack(MongoDB Express React Node), Python Docker, Kubernetes & Cloud Providers (AWS & Lambda Functions, GCP & Firebase ) 
