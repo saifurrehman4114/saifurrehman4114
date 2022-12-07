@@ -10,17 +10,6 @@ I'm a Software Engineer /DevOps/ SRE/ Fullstack Engineer with 3+ years of Experi
 
 I have a love for Machine Learning, Chatbots, and Artificial Intelligence. I’m a true believer in having a curious and creative mindset that makes you adopt and learn/unlearn anything you want. I am a young tech enthusiast who strives to learn, develop & grow. 
 
-Skills: 
-Programming Languages: JavaScript/TypeScript, Python, PHP, Rust, Go, Bash, C/C++
-Frameworks: Node.js, Express.Js, React.js, Tailwind CSS, Jest, GraphQL, Symfony
-Databases: MongoDB, PostgreSQL, Redis, MySQL, SQLite
-Cloud Platforms: AWS, Google Cloud Platform, Firebase, Heroku
-DevOps Tools: Docker, Kubernetes, Prometheus, Grafana
-Developer Tools: Git, BitBucket, Github, SSH, Nginx, VS Code, Webpack, Jira, Confluence, Selenium, Chrome
-Developer tools, Slack
-Operating Systems: Linux: Red Hat Enterprise Linux, Ubuntu, Debian, Windows, macOS
-------------------------
- 
 ## ☎️ Get in touch
 <br>
 <p align = "center">
